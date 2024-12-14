@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+}
+nav{
+    
+    color: white;
+    padding: 30px;
+    background-color: black;
+   
+}
+#h1{
+    display: inline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    display: inline;
+    padding-left: 700px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li{
+    display: inline;
+    padding-left: 40px;
+}
